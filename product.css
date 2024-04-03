@@ -1,0 +1,57 @@
+header {
+    background-color: #333;
+    padding: 10px;
+}
+strong {
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+}
+.logo {
+    align-items: center;
+}
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    
+}
+.product-info {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.price {
+    font-size: 20px;
+    color: #f60;
+    margin-bottom: 20px;
+}
+
+.description {
+    margin-bottom: 30px;
+    color:lightcoral;
+}
+
+.product-options {
+    margin-bottom: 30px;
+    
+}
+
+.cta {
+    display: flex;
+    justify-content: space-between;
+}
+
+button {
+    background-color:crimson;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+    font-size: 30px;
+}
